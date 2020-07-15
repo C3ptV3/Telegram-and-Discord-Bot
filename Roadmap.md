@@ -1,0 +1,6 @@
+1. Discord botu yaratmaq [x]
+2. Discord botu vasitəsi ilə channelda mahnı oxutmaq [x]
+3. Discord botunu youtube ilə əlaqələndirmək [x]
+4. Youtube api ilə search etmək [x]
+5. Botu containerə qurmaq []
+6. AWS serverlərinə containeri deploy etmək []
